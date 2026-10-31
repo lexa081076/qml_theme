@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=My theme
+Description=i creates this (with AI)
+Author=lexa081076
+Copyright=
+License=GPL3
+Type=sddm-theme
+Version=6.0
+Screenshot=preview.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+QtVersion=6
